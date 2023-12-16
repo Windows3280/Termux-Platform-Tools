@@ -1,4 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
+echo ##############################################
+echo # platform-tools 34.0.0 installer for Termux #
+echo # -=+=-=+=-=+=- By Windows3280 -=+=-=+=-=+=- #
+echo # Started installing! To stop click Ctrl+C!  #
+echo ##############################################
 echo Updating pkg repositories
 pkg update
 echo Upgrading packages
